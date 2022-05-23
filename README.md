@@ -15,6 +15,6 @@
   ##
   
  <div align="center" >
-   <img alt="Mandi-pic" height="150" style="border-radius:50%"
+   <img alt="Mandi-pic" height="110" style="border-radius:50px;"
    src="https://picrew.me/shareImg/org/202205/338224_TPvSkNvI.png"/>
 </div>
