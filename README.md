@@ -14,7 +14,7 @@
 
   ##
   
- <div>
-   <img align="right" alt="Mandi-pic" height="150" style="border-radius:50%;"
- src="https://picrew.me/shareImg/org/202205/338224_TPvSkNvI.png">
+ <div align="center" >
+   <img alt="Mandi-pic" height="150" style="border-radius:50%"
+   src="https://picrew.me/shareImg/org/202205/338224_TPvSkNvI.png"/>
 </div>
