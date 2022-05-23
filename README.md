@@ -4,6 +4,8 @@
 - 💻 Estudando Desenvolvimento Web na Trybe ...
 - 😄 Pronomes: ela/dela ...
 
+##
+
 <div align="center">
   <a href="https://github.com/mandioquynha">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mandioquynha&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
@@ -13,6 +15,6 @@
   ##
   
  <div>
-   <img align="center" alt="Mandi-pic" height="150" style="border-radius:50px;"
+   <img align="right" alt="Mandi-pic" height="150" style="border-radius:50px;"
  src="https://picrew.me/shareImg/org/202205/338224_TPvSkNvI.png">
 </div>
