@@ -12,9 +12,3 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mandioquynha&layout=compact&langs_count=7&theme=panda"/>
 </div>
 
-  ##
-  
- <div align="center" >
-   <img alt="Mandi-pic" height="110" style="border-radius:50px;"
-   src="https://picrew.me/shareImg/org/202205/338224_TPvSkNvI.png"/>
-</div>
