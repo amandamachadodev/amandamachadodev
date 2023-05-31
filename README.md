@@ -8,7 +8,7 @@
 <div align="center">
   <a href="https://github.com/mandioquynha">
 <!--   <img height="150em" src="https://github-readme-stats.vercel.app/api/wakatime?username=mandioquynha"/> -->
-  <img height="150em" src=""/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mandioquynha&show_icons=true&theme=radical"/>
 </div>
 
 ##
