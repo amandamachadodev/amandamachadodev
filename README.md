@@ -30,8 +30,7 @@ Docker • Git • Arquitetura Orientada a Objetos • BPMN
 
 - Arquitetura de software  
 - Organização e modularização de código  
-- Implementação de regras de negócio  
-- Sistemas orientados a dados   
+- Implementação de regras de negócio 
 
 ---
 
