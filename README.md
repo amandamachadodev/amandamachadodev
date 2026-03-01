@@ -1,12 +1,54 @@
-### Olá, eu sou a Amanda! 👾👋
-- 📚 Atualmente estou cursando Análise e Desenvolvimeneto de Sistemas na Estácio ...
-- 💻 Formada em Desenvolvimento Web Full Stack na Trybe ...
-- E-mail: machado.amandag@gmail.com ...
+# Amanda Machado
 
-  ##
+Desenvolvedora Full Stack.
 
-<div align="center">
-  <a href="https://github.com/mandioquynha"/>
-  <!-- <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandamachadodev&hide_progress=true&theme=catppuccin_mocha"/> -->
-</div>
+---
 
+## Stack
+
+### Frontend
+React
+TypeScript
+Next.js
+Context API
+Redux
+MUI
+
+### Backend
+Node.js
+Java (Spring Boot)
+PL/SQL
+
+### APIs
+REST
+GraphQL (Apollo)
+
+### Banco de Dados
+PostgreSQL
+Oracle
+MySql
+
+### Geoespacial
+Leaflet
+GeoJSON
+KML
+
+### Outros
+Docker
+Git
+Arquitetura Orientada a Objetos
+BPMN
+
+---
+
+## Interesses Técnicos
+
+- Arquitetura de software
+- Organização e modularização de código
+- Implementação de regras de negócio
+
+---
+
+## Repositórios
+
+Projetos full stack, integrações com API, autenticação, experimentos de arquitetura e organização de código.
