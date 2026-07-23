@@ -26,14 +26,6 @@ Docker • Git • Arquitetura Orientada a Objetos • BPMN
 
 ---
 
-## 🧠 Interesses Técnicos
-
-- Arquitetura de software  
-- Organização e modularização de código  
-- Implementação de regras de negócio 
-
----
-
 ## 📦 Repositórios
 
 Projetos full stack, integrações com API, autenticação e experimentos de arquitetura.
